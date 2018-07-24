@@ -485,4 +485,3 @@ Thanks to [hoverbear](http://hoverbear.org) by examples and Rust/Wasm setup guid
 - https://hacks.mozilla.org/2017/02/a-crash-course-in-assembly/
 - https://www.hellorust.com/emscripten/slides/rbr-talk/
 - https://hoverbear.org/2017/03/03/setting-up-a-rust-devenv/#setting-up-rust-via-rustup
-S
